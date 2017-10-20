@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508428852 source:d:\mypractice\c_and_ptr\chapter01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../general_config.h"
+
+1508428914 d:\mypractice\c_and_ptr\general_config.h
+
