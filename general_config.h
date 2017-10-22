@@ -11,7 +11,7 @@
 
 typedef enum
 {
-    Flase = 0,
+    False = 0,
     True = 1
 }bool;
 
